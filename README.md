@@ -37,9 +37,9 @@ The study is motivated by motorsport front wing aerodynamics, where downforce ge
 - Hex-dominant mesh generated using snappyHexMesh
 - Boundary layer refinement with near-wall resolution suitable for SST
 - Mesh sensitivity study performed:
-  - Fine mesh: ~7–8 million cells
+  - Fine mesh: ~8 million cells
   - Acceptable mesh quality with minimal illegal cells
-- Very large meshes (>1.6 million cells) showed degraded mesh quality due to CAD issues
+- Coarse mesh (>1.6 million cells) showed degraded mesh quality due to CAD issues
 
 
 
