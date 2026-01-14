@@ -83,7 +83,7 @@ Force and moment histories demonstrate stable steady-state behaviour.
 ## Tools
 - OpenFOAM
 - ParaView
-- MATLAB/Python (post-processing)
+- MATLAB/Python/C++ (post-processing)
 - FreeCAD / SALOME (planned CAD repair)
 
 
